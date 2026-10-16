@@ -3,17 +3,17 @@ A digitally-controlled variable DC-DC buck converter powered by the **LTC3851** 
 
 ## Project Status
 
--[x] LTSPICE simulation of analog buck stage
--[ ] Schematic and PCB design (Altium)
--[ ] Firmware development for SMT32
--[ ] Physical prototyping and testing
+- [x] LTSPICE simulation of analog buck stage
+- [ ] Schematic and PCB design (Altium)
+- [ ] Firmware development for SMT32
+- [ ] Physical prototyping and testing
 
 ## Hardware
 
--**DC Controller:** LTC3851 Step-down Controller
--**Switching Elements:** RJK0305DPB N-Channel MOSFETs
--**Control Interface:** SMT32 Nucleo Board
--**Feedback Control:** I²C Digital Potentiometer
+- **DC Controller:** LTC3851 Step-down Controller
+- **Switching Elements:** RJK0305DPB N-Channel MOSFETs
+- **Control Interface:** SMT32 Nucleo Board
+- **Feedback Control:** I²C Digital Potentiometer
 
 ## Repository Layout 
 
