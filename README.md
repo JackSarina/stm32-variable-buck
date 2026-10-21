@@ -13,7 +13,7 @@ A digitally-controlled variable DC-DC buck converter powered by the **LTC3851** 
 - **DC Controller:** LTC3851 Step-down Controller
 - **Switching Elements:** RJK0305DPB N-Channel MOSFETs
 - **Control Interface:** SMT32 Nucleo Board
-- **Feedback Control:** I²C Digital Potentiometer
+- **Feedback Control:** MCP4561-103E/MS Digital Potentiometer
 
 ## Repository Layout 
 
